@@ -1,0 +1,26 @@
+{
+  "queries": [
+    {
+      "name": "Example Query 1",
+      "category": "Example",
+      "queryList": [
+        {
+          "final": true,
+          "query": "EXAMPLE CYPHER QUERY",
+          "allowCollapse": true
+        }
+      ]
+    },
+    {
+      "name": "Example Query 2",
+      "category": "Example",
+      "queryList": [
+        {
+          "final": true,
+          "query": "EXAMPLE CYPHER QUERY",
+          "allowCollapse": true
+        }
+      ]
+    }
+  ]
+}
